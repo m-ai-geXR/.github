@@ -34,7 +34,7 @@ maigeXR runs on **Android**, **iOS**, and **Web**, each with unique optimization
 
 ---
 
-### 🤖 Android — [AndroidMaigeXr](./AndroidMaigeXr)
+### 🤖 Android — [AndroidMaigeXr](https://github.com/m-ai-geXR/AndroidMaigeXr)
 
 **Native Kotlin/Jetpack Compose Application**
 
@@ -48,12 +48,12 @@ maigeXR runs on **Android**, **iOS**, and **Web**, each with unique optimization
   - Encrypted API key storage  
   - Conversation history (Room SQLite)
 
-📄 [Android Documentation](./AndroidMaigeXr/README.md)  
-📘 [Android CLAUDE.md](./AndroidMaigeXr/CLAUDE.md)
+📄 [Android Documentation](https://github.com/m-ai-geXR/AndroidMaigeXr)  
+📘 [Android CLAUDE.md](https://github.com/m-ai-geXR/AndroidMaigeXr/blob/main/CLAUDE.md)
 
 ---
 
-### 🍏 iOS — [iOSMaigeXr](./iOSMaigeXr)
+### 🍏 iOS — [iOSMaigeXr](https://github.com/m-ai-geXR/iOSMaigeXr)
 
 **Native Swift/SwiftUI Application**
 
@@ -68,12 +68,12 @@ maigeXR runs on **Android**, **iOS**, and **Web**, each with unique optimization
   - Temperature + Top-P parameter controls  
   - Automatic settings persistence
 
-📄 [iOS Documentation](./iOSMaigeXr/README.md)  
-📘 [iOS CLAUDE.md](./iOSMaigeXr/CLAUDE.md)
+📄 [iOS Documentation](https://github.com/m-ai-geXR/iOSMaigeXr)  
+📘 [iOS CLAUDE.md](https://github.com/m-ai-geXR/iOSMaigeXr/blob/main/CLAUDE.md)
 
 ---
 
-### 🌐 Web — [WebMaigeXr](./WebMaigeXr)
+### 🌐 Web — [WebMaigeXr](https://github.com/m-ai-geXR/WebMaigeXr)
 
 **Next.js Progressive Web Application**
 
@@ -88,7 +88,7 @@ maigeXR runs on **Android**, **iOS**, and **Web**, each with unique optimization
   - Built-in build system with npm  
   - PWA support
 
-📄 [Web Documentation](./WebMaigeXr/CLAUDE.md)
+📄 [Web Documentation](https://github.com/m-ai-geXR/WebMaigeXr/blob/main/CLAUDE.md)
 
 > **Note:** The web version uses localStorage for API keys; intended for development only.
 
