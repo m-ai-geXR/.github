@@ -1,4 +1,4 @@
-# m{ai}geXR
+# [m{ai}geXR](https://maigexr.vercel.app/)
 
 > **From Conversation to Creation**  
 > Democratizing Extended Reality development through AI-powered assistance
